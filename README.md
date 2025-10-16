@@ -277,6 +277,9 @@ Fingerprinting (SWF))(2023)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `EuroS&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
     * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
 * Streaming Media
+    * [Dive into streaming: efficient identification of encrypted dynamic DASH video traffic](https://link.springer.com/article/10.1007/s11432-024-4474-6). Xiyuan Zhang. `SCIS 2026`.
+    * [Endangered privacy: large-scale monitoring of video streaming services](https://dl.acm.org/doi/10.5555/3766078.3766416). Martin Björklund. `Usenix Security 2025`.
+    * [TorVIA: A novel encrypted video identification method based on Tor transmission characteristics](https://www.sciencedirect.com/science/article/abs/pii/S1389128625005584). Juncheng Lu. `ComNet 2025`.
     * [The Analysis of Encrypted Video Stream Based on Low-dimensional Embedding Method](https://ieeexplore.ieee.org/document/10793092). Luming Yang. `TIFS 2024`.
     * [Zenith: Real-time Identification of DASH Encrypted Video Traffic with Distortion](https://dl.acm.org/doi/10.1145/3664647.3680695). Weitao Tang. `MM 2024`.
     * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. `ESORICS 2024`.
